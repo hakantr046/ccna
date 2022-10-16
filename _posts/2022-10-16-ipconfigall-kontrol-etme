@@ -1,0 +1,16 @@
+---
+layout: post
+title : Bilgisayarların Iponfig /all Adresini Kontrol Etmek (Windows Makineler İçin)
+tags: ccna
+categories: ccna
+---
+
+> Hakan Torun, 16 Ekim 2022
+
+---
+
+## Windows Bilgisayarlarda Ipconfig /all Adresi Kontrolü
+
+`ipconfig /all` komutu, bilgisayarınızda aynı IP adresi üzerindeki ağ aygıtlarına dair varsayılan bilgileri sunar. Bu bilgilere ek olarak, her ağ aygıtı için belirlenmiş DNS ve WINS ayarlarını da görüntüleyebilirsiniz.
+
+![image](/img/ipconfigall.PNG)
